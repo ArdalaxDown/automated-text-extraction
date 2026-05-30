@@ -1,0 +1,28 @@
+Thu 28 May 2026 06:56:47 PM -05
+
+/tmp/ala0kn2A
+
+Page 1
+
+Historial de alarmas
+
+Hora de inicio:
+
+n/a2026/05/28 14:20:
+
+00 Hora de fin: n/a2026/05/28 18:20:00
+
+Ubicación:
+Subsistema:
+CBTC
+Prioridad:
+4
+Priorida Hora Códi Detalles
+4 28/05/2026 17:39:54.6 W400 229 302 en ÓVALO DE SANTA ANITA 2103: Indicación De Deslizamiento Detectado ON
+4 28/05/2026 17:37:27.2 W400 229 302 en HERMILIO VALDIZÁN 2301: Indicación De Deslizamiento Detectado ON
+4 28/05/2026 17:35:54.5 W400 229 302 en MERCADO DE SANTA ANITA 2401: Indicación De Deslizamiento Detectado ON
+4 28/05/2026 17:21:28.8 W400 229 302 en HERMILIO VALDIZÁN 2307A: Indicación De Deslizamiento Detectado ON
+4 28/05/2026 17:06:15.7 W400 229 302 en HERMILIO VALDIZÁN 2307A: Indicación De Deslizamiento Detectado ON
+4 28/05/2026 16:23:01.8 W400 229 302 en HERMILIO VALDIZÁN 2301: Indicación De Deslizamiento Detectado ON
+4 28/05/2026 15:36:47.4 W400 229 302 en HERMILIO VALDIZÁN 2307A: Indicación De Deslizamiento Detectado ON
+
